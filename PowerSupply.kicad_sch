@@ -368,7 +368,7 @@
 			(uuid "14f144cb-1a06-4faa-a29a-71d1877429f0")
 		)
 		(instances
-			(project ""
+			(project "First_Project_Leds_M0"
 				(path "/a6b7db5d-4112-4c01-9772-3f374ef07d77/868d080f-545f-4760-8823-ee8e8719b383"
 					(reference "PS1")
 					(unit 1)
